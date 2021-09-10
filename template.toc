@@ -16,10 +16,11 @@
 \contentsline {subsection}{\numberline {4.3.3}筛法}{12}{subsection.4.3.3}%
 \contentsline {subsubsection}{Eratosthenes 筛法}{12}{subsubsection*.2}%
 \contentsline {subsubsection}{Euler 筛法}{12}{subsubsection*.3}%
-\contentsline {chapter}{\numberline {第五章\hspace {.3em}}数据结构}{13}{chapter.5}%
-\contentsline {section}{\numberline {5.1}动态树}{13}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Link-Cut Tree}{13}{subsection.5.1.1}%
-\contentsline {chapter}{\numberline {第六章\hspace {.3em}}图论}{17}{chapter.6}%
-\contentsline {chapter}{\numberline {第七章\hspace {.3em}}计算几何}{19}{chapter.7}%
-\contentsline {chapter}{\numberline {第八章\hspace {.3em}}其他}{21}{chapter.8}%
-\contentsline {section}{\numberline {8.1}读入输出优化}{21}{section.8.1}%
+\contentsline {subsection}{\numberline {4.3.4}Pollard-Rho}{12}{subsection.4.3.4}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}数据结构}{17}{chapter.5}%
+\contentsline {section}{\numberline {5.1}动态树}{17}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Link-Cut Tree}{17}{subsection.5.1.1}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}图论}{21}{chapter.6}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}计算几何}{23}{chapter.7}%
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}其他}{25}{chapter.8}%
+\contentsline {section}{\numberline {8.1}读入输出优化}{25}{section.8.1}%
